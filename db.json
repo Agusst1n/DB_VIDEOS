@@ -5,14 +5,16 @@
       "title": "TIPS JAVASCRIPT",
       "urlMedia": "https://res.cloudinary.com/dsl8zromj/video/upload/v1654563103/video1_qrq7qo.mp4",
       "likes": 3000,
-      "views": 123567
+      "views": 123567,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim quis doloremque dolorum dolorem, sit officia consequuntur explicabo incidunt ipsam illo. Alias quo incidunt dolores consequatur provident nisi aperiam pariatur recusandae."
     },
     {
-      "id": 2,
+      "id": 1,
       "title": "TIPS JAVASCRIPT",
-      "urlMedia": "https://res.cloudinary.com/dsl8zromj/video/upload/v1654563100/video2_kxekum.mp4",
+      "urlMedia": "https://res.cloudinary.com/dsl8zromj/video/upload/v1654563103/video1_qrq7qo.mp4",
       "likes": 2000,
-      "views": 500123
+      "views": 500123,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim quis doloremque dolorum dolorem, sit officia consequuntur explicabo incidunt ipsam illo. Alias quo incidunt dolores consequatur provident nisi aperiam pariatur recusandae."
     }
   ]
 }
